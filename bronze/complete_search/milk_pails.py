@@ -1,3 +1,5 @@
+# https://usaco.org/index.php?page=viewproblem2&cpid=615
+
 def old_contest(filename_no_ext):
     import sys
 

@@ -1,3 +1,5 @@
+# https://usaco.org/index.php?page=viewproblem2&cpid=1203
+
 splint = lambda : list(map(int, input().split()))
 
 def add_elements(lst, i):
