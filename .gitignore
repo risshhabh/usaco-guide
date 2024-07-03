@@ -8,4 +8,5 @@ __pycache__
 *.pyo
 
 learn_*
+!learn/*
 boilerplate.py
