@@ -7,5 +7,6 @@ I implemented the vast majority of problems in Python. The problems are mainly s
 - [USA Computing Olympiad (USACO)](https://usaco.org/)
 - [Code Submission Evaluation System (CSES)](https://cses.fi/)
 - [Codeforces](https://codeforces.com/)
+Problems are split into subdirectories following USACO Guide's section formatting.
 
 Additionally, I included Jupyter notebooks / other notes I took in the `learn/` directory. The original lectures / textbooks are included as links in the markdown sections.
